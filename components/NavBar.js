@@ -26,7 +26,10 @@ export const NavBar = () => {
     }, []);
 
     return (
-        <Navbar expand="lg" bg="light" variant="light">
+        <Navbar expand=
+        
+        
+        "lg" bg="light fdkerk,fvkldlmdfy" variant="light">
             <Container>
                 <Navbar.Brand href="#Acceuil">
                     <Col>
